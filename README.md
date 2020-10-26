@@ -61,3 +61,10 @@ build/sbt test
 <root-dir>/target/scala-2.11/delta-core_2.11-0.6.1.jar
 <root-dir>/target/scala-2.12/delta-core_2.12-0.6.1.jar
 ```
+
+### Pre-built Jars:
+##### Scala 2.11
+[delta-core_2.11-0.6.1.jar](https://github.com/swapnil-chougule/delta-with-vacuum/raw/main/jar/scala-2.11/delta-core_2.11-0.6.1.jar)
+
+##### Scala 2.12
+[delta-core_2.12-0.6.1.jar](https://github.com/swapnil-chougule/delta-with-vacuum/raw/main/jar/scala-2.12/delta-core_2.12-0.6.1.jar)
